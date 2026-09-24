@@ -1,0 +1,6 @@
+id: gym-copilot
+name: AI 健身房会籍管家
+version: 1.0.0
+author: xfg-studio
+description: AI 健身房会籍管家，支持卡种查询（月卡/季卡/年卡/私教月包）、团课表查询、办卡入会（要素确认）、会籍查询、团课预约与运营统计。
+entrypoint: cn.xiaofuge.i.plugin.GymPlugin
